@@ -5,10 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=42&lines=Turning+vague+ideas+into+working+products;AI+agents+%C2%B7+automation+%C2%B7+integrations;Built+with+Claude+Code%2C+Cursor%2C+Codex+%26+Replit" alt="" />
 
-<br/>
-
-![Open to work](https://img.shields.io/badge/Open%20to%20work-AI%20Engineer-8B5CF6?style=for-the-badge)
-
 </div>
 
 <br/>
@@ -27,21 +23,20 @@ I turn vague ideas into working products. I'm an **AI-assisted builder** — I d
 ## Featured projects
 
 - **[notion-telegram-notifier](https://github.com/Gleb-Sergeevich-Loktionov/notion-telegram-notifier)** — Notion → Telegram push bot for teams on Notion guest seats. <br/><sub>`Python` · `aiogram` · `Notion API` · `SQLite` · `Docker`</sub>
-- **[Magda Agent](https://github.com/Gleb-Sergeevich-Loktionov/Jules-Fork-)** — experimental cognitive AI agent with a self-improvement loop. <br/><sub>`Python` · `FastAPI` · `aiogram` · `Codex / Jules`</sub>
+- **[Steam-Gifter](https://github.com/Gleb-Sergeevich-Loktionov/Steam-Gifter)** — automated Steam-gift sales platform across marketplaces (GGSel, Plati, FunPay, Playerok): order pipeline, checkout and ledger. <br/><sub>`Python` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker`</sub>
 - **[Grobbin Mood SpotiDL](https://github.com/Gleb-Sergeevich-Loktionov/Grobbin-Mood-SpotiDL-DJs-edition)** — CLI that downloads Spotify playlists end-to-end. <br/><sub>`Python` · `yt-dlp` · `FFmpeg` · `Spotify API`</sub>
 
 ---
 
-## Curated AI stack
+## What I research & collect
 
-I actively research the applied-AI landscape and keep a sorted collection of the tools, agents and techniques I'd actually use — a curated map, not a random pile.
+I spend real time mapping the dev & AI-tooling landscape and sorting what's worth keeping into curated lists I actually use:
 
-![AI Agents & Orchestration](https://img.shields.io/badge/AI_Agents_%26_Orchestration-8B5CF6?style=flat-square)
-![Claude Skills & Subagents](https://img.shields.io/badge/Claude_Skills_%26_Subagents-6366F1?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-22D3EE?style=flat-square)
-![LLM Red-Teaming & Safety](https://img.shields.io/badge/LLM_Red--Teaming_%26_Safety-EC4899?style=flat-square)
+<a href="https://github.com/stars/Gleb-Sergeevich-Loktionov/lists/plugins"><img src="https://img.shields.io/badge/Plugins-28-8B5CF6?style=flat-square" alt="Plugins list" /></a>
+<a href="https://github.com/stars/Gleb-Sergeevich-Loktionov/lists/helpful"><img src="https://img.shields.io/badge/Helpful-10-6366F1?style=flat-square" alt="Helpful list" /></a>
+<a href="https://github.com/stars/Gleb-Sergeevich-Loktionov/lists/reverse-engineering"><img src="https://img.shields.io/badge/Reverse_Engineering-9-22D3EE?style=flat-square" alt="Reverse Engineering list" /></a>
 
-<a href="https://github.com/Gleb-Sergeevich-Loktionov?tab=stars"><img src="https://img.shields.io/badge/Browse%20my%20curated%20stars-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="curated stars" /></a>
+<a href="https://github.com/Gleb-Sergeevich-Loktionov?tab=stars"><img src="https://img.shields.io/badge/Browse%20all%20my%20stars-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="all stars" /></a>
 
 ---
 
