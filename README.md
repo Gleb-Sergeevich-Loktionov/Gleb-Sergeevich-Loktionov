@@ -22,9 +22,19 @@ I turn vague ideas into working products. I'm an **AI-assisted builder** — I d
 
 ## Featured projects
 
+- **[lattice](https://github.com/Gleb-Sergeevich-Loktionov/lattice)** — integration-first open-source no-code database: a thin data engine whose real value is a two-way connector layer for corporate planners (Kaiten first). <br/><sub>`TypeScript` · `Hono` · `Drizzle` · `PostgreSQL` · `React`</sub>
+- **[GRO — Game Route Optimizer](https://github.com/Gleb-Sergeevich-Loktionov/GRO)** — open-source GPN (gaming VPN) that cuts ping, jitter and packet loss; a self-hostable ExitLag alternative. <br/><sub>`C++20` · `Go` · `KCP` · `Reed–Solomon FEC`</sub>
+- **[ai-redaktor](https://github.com/Gleb-Sergeevich-Loktionov/ai-redaktor)** — Telegram bot that proofreads and edits Russian text (spelling, grammar, anglicisms) via a single structured Claude call. <br/><sub>`Python` · `python-telegram-bot` · `Anthropic Claude` · `pandoc`</sub>
 - **[notion-telegram-notifier](https://github.com/Gleb-Sergeevich-Loktionov/notion-telegram-notifier)** — Notion → Telegram push bot for teams on Notion guest seats. <br/><sub>`Python` · `aiogram` · `Notion API` · `SQLite` · `Docker`</sub>
-- **[Steam-Gifter](https://github.com/Gleb-Sergeevich-Loktionov/Steam-Gifter)** — automated Steam-gift sales platform across marketplaces (GGSel, Plati, FunPay, Playerok): order pipeline, checkout and ledger. <br/><sub>`Python` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker`</sub>
-- **[Grobbin Mood SpotiDL](https://github.com/Gleb-Sergeevich-Loktionov/Grobbin-Mood-SpotiDL-DJs-edition)** — CLI that downloads Spotify playlists end-to-end. <br/><sub>`Python` · `yt-dlp` · `FFmpeg` · `Spotify API`</sub>
+- **[Grobbin Mood SpotiDL](https://github.com/Gleb-Sergeevich-Loktionov/Grobbin-Mood-SpotiDL-DJs-edition)** — CLI that downloads Spotify playlists to MP3 with correct-track matching — the song you named, not a remix. <br/><sub>`Python` · `yt-dlp` · `FFmpeg` · `Spotify API`</sub>
+- **[knew](https://github.com/Gleb-Sergeevich-Loktionov/knew)** — iOS app to declutter your address book by swiping through contacts; on-device only, with an automatic vCard backup. <br/><sub>`Swift` · `SwiftUI` · `Core Data` · `Contacts`</sub>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gleb-Sergeevich-Loktionov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleb-Sergeevich-Loktionov&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top languages" />
+
+</div>
 
 ---
 
