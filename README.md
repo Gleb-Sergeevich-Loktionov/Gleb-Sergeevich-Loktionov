@@ -9,10 +9,6 @@
 
 <br/>
 
-## About
-
-I turn vague ideas into working products. I'm an **AI-assisted builder** — I direct modern LLMs and dev tools to design, write, debug and ship software. My craft is **prompt engineering and product thinking**: breaking a problem down, building it, and pushing it until it actually works.
-
 **Reach me:**
 <a href="mailto:anakinfromthepast@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EC4899" alt="Email" /></a>
 <a href="https://t.me/glebsergeevichloktionov"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=22D3EE" alt="Telegram" /></a>
