@@ -18,7 +18,7 @@
 
 ## Featured projects
 
-Finished, working tools — each carries a **green CI badge** (its test suite runs on every push) and a complete, step-by-step setup guide in its README.
+Finished, working tools with setup guides, test suites and containerized deployments:
 
 - **[voice-agent](https://github.com/Gleb-Sergeevich-Loktionov/voice-agent)** <br/> Real-time outbound voice agent: live speech-to-speech lead qualification via OpenAI Realtime protocol, state-machine dialogue flow, SIP telephony & signed webhooks. <br/><sub>`Python` · `FastAPI` · `OpenAI Realtime` · `SIP` · `WebSockets` · `Docker`</sub>
 - **[caseflow-ai](https://github.com/Gleb-Sergeevich-Loktionov/caseflow-ai)** <br/> Human-in-the-loop document ingestion pipeline: automated PDF splitting, layout OCR, schema extraction, and deterministic risk routing with a web review UI. <br/><sub>`Python` · `Tesseract OCR` · `PyMuPDF` · `Docker`</sub>
@@ -29,8 +29,8 @@ Finished, working tools — each carries a **green CI badge** (its test suite ru
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gleb-Sergeevich-Loktionov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleb-Sergeevich-Loktionov&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top languages" />
+<img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=Gleb-Sergeevich-Loktionov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gleb-Sergeevich-Loktionov&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top languages" />
 
 </div>
 
@@ -40,9 +40,12 @@ Finished, working tools — each carries a **green CI badge** (its test suite ru
 
 I spend real time mapping the dev & AI-tooling landscape and sorting what's worth keeping into curated lists I actually use:
 
-<a href="https://github.com/stars/Gleb-Sergeevich-Loktionov/lists/plugins"><img src="https://img.shields.io/badge/Plugins-28-8B5CF6?style=flat-square" alt="Plugins list" /></a>
-<a href="https://github.com/stars/Gleb-Sergeevich-Loktionov/lists/helpful"><img src="https://img.shields.io/badge/Helpful-10-6366F1?style=flat-square" alt="Helpful list" /></a>
-<a href="https://github.com/stars/Gleb-Sergeevich-Loktionov/lists/reverse-engineering"><img src="https://img.shields.io/badge/Reverse_Engineering-9-22D3EE?style=flat-square" alt="Reverse Engineering list" /></a>
+<a href="https://github.com/stars/Gleb-Sergeevich-Loktionov/lists/ai-agents"><img src="https://img.shields.io/badge/AI_Agents-68-8B5CF6?style=flat-square" alt="AI Agents list" /></a>
+<a href="https://github.com/stars/Gleb-Sergeevich-Loktionov/lists/developer-tools"><img src="https://img.shields.io/badge/Developer_Tools-31-6366F1?style=flat-square" alt="Developer Tools list" /></a>
+<a href="https://github.com/stars/Gleb-Sergeevich-Loktionov/lists/networking-vpn"><img src="https://img.shields.io/badge/Networking_VPN-24-22D3EE?style=flat-square" alt="Networking VPN list" /></a>
+<a href="https://github.com/stars/Gleb-Sergeevich-Loktionov/lists/security-reverse-engineering"><img src="https://img.shields.io/badge/Reverse_Engineering-21-8B5CF6?style=flat-square" alt="Reverse Engineering list" /></a>
+<a href="https://github.com/stars/Gleb-Sergeevich-Loktionov/lists/game-technology"><img src="https://img.shields.io/badge/Game_Tech-16-6366F1?style=flat-square" alt="Game Tech list" /></a>
+<a href="https://github.com/stars/Gleb-Sergeevich-Loktionov/lists/data-engineering"><img src="https://img.shields.io/badge/Data_Engineering-16-22D3EE?style=flat-square" alt="Data Engineering list" /></a>
 
 <a href="https://github.com/Gleb-Sergeevich-Loktionov?tab=stars"><img src="https://img.shields.io/badge/Browse%20all%20my%20stars-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="all stars" /></a>
 
